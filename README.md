@@ -1,6 +1,6 @@
-![sergiocabral.com](/assets/sergiocabral-banner.png)
+![sergiocabral.com](/assets/banner-sergiocabral.png)
 
-# Produzindo Conteúdo Digital
+# Conteúdo Digital
 
 ## 📺 Streamer
 
@@ -15,6 +15,7 @@
 
 ## ⚙ Projetos
 
+* [Domínios de Internet](project/domains-map.md)
 * [Cabr0n Coin](project/cabr0n-coin.md)
 * [E-mail Forward](project/email-forward.md)
 * [Screeps](project/screeps.md)
