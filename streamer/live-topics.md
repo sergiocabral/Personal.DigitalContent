@@ -1,6 +1,6 @@
-# Assuntos para lives
+# 📢 Assuntos para lives
 
-## Programação
+## Linguagens de Programação
 
 * C#
 
