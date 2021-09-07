@@ -38,7 +38,7 @@
 
 * GitHub
 
-* InkScape
+* Inkscape
 
 ## Assuntos de Tecnologia
 
