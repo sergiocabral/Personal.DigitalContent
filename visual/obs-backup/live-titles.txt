@@ -1,5 +1,0 @@
-[Documentário] Hackers
-
-Explicando: Código de programação
-
-Cabr0n Coin: Desenvolvendo um criptomoeda baseada em Git

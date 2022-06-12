@@ -1,0 +1,88 @@
+[TypeScript + Jest] Criptografando o JSON (sorteio de pizza)
+
+
+[sapiensia.com] Working on it: 
+
+[TypeScript + Jest] Testes unitário do criptografador de JSON
+
+
+
+[Blockchain gohorse.dev] Criptografando o JSON
+
+[Blockchain gohorse.dev] Segregando pacotes no npmjs.com
+
+[Blockchain gohorse.dev] Persistindo logger no ElasticSearch
+
+[Nginx, Wordpress] Subindo de volta meu site de fotos
+
+[npmjs.com] Publicando pacotes da blockchain gohorse.dev
+
+[TypeScript + Jest] Testes unitário do Logger para banco de dados
+
+[Blockchain gohorse.dev] Logger persistindo no ElasticSearch
+
+[Blockchain gohorse.dev] Comunicação entre duas instâncias em execução
+
+[Docker] Atualizando imagem nginx quebrada no alpine
+
+
+
+Sorteio de PIZZA + Quiz de JavaScripto
+
+[Blockchain gohorse.dev] Finalizar abstração do Logger
+
+[TypeScript + Jest] Parse do JSON que configura a blockchain gohorse.dev
+
+[ElasticSearch + Kibana] Configurando dashboards dos dados da Twitch
+
+
+
+[PowerShell] Bitcoin Wallet via linha de comando
+
+[TypeScript+Jest] Carregando configuração do JSON
+
+[Rocketseat] Preparando aula: Bitcoin Wallet via linha comando
+
+[Bitcoin] Criando um endereço por linha de comando
+
+[TypeScript] Parser para linha de comando
+
+[TypeScript] Executável base da blockchain gohorse.dev
+
+[TypeScript] Logger persistido em disco e banco de dados
+
+[TypeScript] Executável base da blockchain gohorse.dev
+
+
+[TypeScript + Jest] Monitorando arquivo em disco
+
+[C#] app para consulta de dados de domínios de internet
+
+
+[Documentário] Explicando: Código de programação
+
+[gohorse.dev] Construindo uma blockchain
+
+[TypeScript] Escrevendo um parse da linha de comando
+
+Escrevendo aplicação base da blockchain GoHorse
+
+TypeScript com Jest
+
+[C#] Atualizando para .NET 6
+
+[Blockchain] Parse da linha de comando
+
+npm install @sergiocabral/helper # Nova funcionalidade
+
+[Blockchain] A Cabr0n Coin agora é gohorse.dev
+
+[Blockchain] Criando um endereço de carteira Bitcoin
+
+Mineração... Vendendo equipamentos na OLX
+
+Twitch Scraping — Consertando porque parou de funcionar
+
+[Blockchain] A Cabr0n Coin vai mudar de nome
+
+###########################################################################################
