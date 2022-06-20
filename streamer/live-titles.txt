@@ -1,5 +1,30 @@
-[TypeScript + Jest] Criptografando o JSON (sorteio de pizza)
+[Git] Um pouco mais sobre `git commit`
 
+[Gatsby JS] Ajuste no sergiocabral.com
+
+                          eu: estudando criptografia / vocês: assistem esse documentário aí
+
+
+[SSH] Acessando servidores remotos
+
+[C#] Revivendo um projeto Cli
+
+[AWS] Criando uma conta com recursos gratuitos por 12 meses
+
+[AWS] Recriando conta gratuita
+
+[Git] Dicas de como nunca perder seus dados
+
+[mIRC] Conectando no chat da Twitch
+
+[npmjs.com] Publicando pacotes da blockchain gohorse.dev
+
+[Regex, Expressão Regular] Capturando grupos
+
+
+[Blockchain gohorse.dev] Finalizando aplicação base
+
+[TypeScript + Jest] Criptografando o JSON (sorteio de pizza)
 
 [sapiensia.com] Working on it: 
 
@@ -86,3 +111,52 @@ Twitch Scraping — Consertando porque parou de funcionar
 [Blockchain] A Cabr0n Coin vai mudar de nome
 
 ###########################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git commit
+
+-a (--all)
+	git add .
+	git add *
+
+-m (--message)
+--allow-empty
+--allow-empty-message
+
+--amend
+--no-edit
+
+--author="sergio <sergio@cabral.br.com>"
+	git shortlog -es
+
+--reset-author
+
+-c (--reedit-message=HEAD)
+-C (--reuse-message=HEAD)
+
+--dry-run --long
+
+-s
+--signoff
+--no-signoff
+
+
+---
+
+ssh simples
+aws
