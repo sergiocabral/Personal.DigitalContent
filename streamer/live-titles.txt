@@ -1,3 +1,88 @@
+[ElasticSearch] Analisando logs com dashboards no Kibana
+
+
+[Criptografia] O que é uma função de Hash
+
+[TypeScript] Construindo um client para IRC
+
+[Criptografia] O que é uma função de Hash
+
+[ElasticSearch + JavaScript] Enviando logs para análise com dashboards no Kibana
+
+
+[DNS] Encontrando informações sobre domínios de internet na raiz
+
+
+
+[Regex] Praticando o básico no JavaScript
+
+[DNS] Encontrando informações sobre domínios de internet na raiz
+
+[TypeScript] Construindo um client para IRC
+
+[JavaScript] Estudando Unicode
+
+[Regex + JavaScript] Escrevendo uma função tipo Slugify
+
+[TypeScript] Construindo sistema de monetização via PIX
+
+[Git] Como commits nascem? Fazer commit sem usar `git commit`
+
+[GPg ou PGP] Praticando de todo jeito
+
+[NodeJS] Enviando console.log() para banco de dados ElasticSearch
+
+[ElasticSearch] Construindo uma VM para desenvolvimento
+
+[JavaScript] Gravando o console.log() em arquivo
+
+[AsciiDoctor] Compilando TXT para PDF
+
+[Regex no auth.log] Quem está atacando seu servidor?
+
+[AsciiDoctor] Compilando TXT para PDF
+
+
+
+[Git] Usando múltiplos repositórios
+
+[Git] Reset VS. Checkout
+
+[PHP, consumindo API] Revivendo o projeto App.Loto
+
+[PHP] Download, instalação e debug da versão 7
+
+[PHP, consumindo API] Revivendo o projeto App.Loto
+
+[TypeScript
+
+[Git] Editando commits
+
+[GitHub] Assinando commits
+
+
+[Regex no JavaScript] A diferença entre RegExp().exec() e String().match()
+
+[JavaScript + Regex] Gravando aulas
+
+[Netdata] Monitorando um servidor Linux usando a ferramenta Netdata
+
+
+
+
+[AWS] Criando uma VM e acessando pelo SSH com chave
+
+
+[NodeJS] Criando aplicações sem NPM
+
+[Linux] Criando uma VM na AWS e mudando a porta SSH
+
+[C#] Biblioteca de CLI com menus
+
+[Git] Listando o nome dos 'commiteiros'
+
+
+
 [Git] Um pouco mais sobre `git commit`
 
 [Gatsby JS] Ajuste no sergiocabral.com
@@ -111,52 +196,3 @@ Twitch Scraping — Consertando porque parou de funcionar
 [Blockchain] A Cabr0n Coin vai mudar de nome
 
 ###########################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-git commit
-
--a (--all)
-	git add .
-	git add *
-
--m (--message)
---allow-empty
---allow-empty-message
-
---amend
---no-edit
-
---author="sergio <sergio@cabral.br.com>"
-	git shortlog -es
-
---reset-author
-
--c (--reedit-message=HEAD)
--C (--reuse-message=HEAD)
-
---dry-run --long
-
--s
---signoff
---no-signoff
-
-
----
-
-ssh simples
-aws
