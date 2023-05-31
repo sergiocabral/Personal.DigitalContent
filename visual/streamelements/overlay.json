@@ -1,0 +1,32 @@
+{
+    "titleFont": {
+        "type": "googleFont",
+        "label": "Title, Font",
+        "value": "Chewy"
+    },
+    "titleColor": {
+        "type": "colorpicker",
+        "label": "Title, Color",
+        "value": "#feb236"
+    },
+    "phraseFont": {
+        "type": "googleFont",
+        "label": "Phrase, Font",
+        "value": "Oswald"
+    },
+    "phraseColor": {
+        "type": "colorpicker",
+        "label": "Phrase, Color",
+        "value": "#00a3fe"
+    },
+    "phraseList": {
+        "type": "text",
+        "label": "Phrase 1 | Phrase 2 | Phrase 3 | ...",
+        "value": "Valeuzão por colar aqui! | Legal você tah por aqui!"
+    },
+    "imageList": {
+        "type": "text",
+        "label": "Giphy Id 1 | Giphy Id 2 | Giphy Id 3 | ...",
+        "value": "https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif | https://media.giphy.com/media/jp7jSyjNNz2ansuOS8/giphy.gif"
+    }
+}
