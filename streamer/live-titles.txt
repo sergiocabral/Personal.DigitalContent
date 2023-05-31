@@ -1,198 +1,118 @@
-[ElasticSearch] Analisando logs com dashboards no Kibana
+[TypeScript] Implementando GPG pelo código da gohorse.dev blockchain
 
+[JavaScript com Screeps] Sorteio de PIXza
 
-[Criptografia] O que é uma função de Hash
+[NodeJS] Praticando com multi-thread
 
-[TypeScript] Construindo um client para IRC
 
-[Criptografia] O que é uma função de Hash
+[Lógica Binária] Circuitos binários
 
-[ElasticSearch + JavaScript] Enviando logs para análise com dashboards no Kibana
+[JavaScript] Ligando o BOT dos memes
 
+[Lógica Binária] Operadores Bitwise
 
-[DNS] Encontrando informações sobre domínios de internet na raiz
+[JavaScript] Conceito de protótipos vs. Sugar Syntax
 
+[Regex] Máscaras para <input /> em HTML
 
+[JavaScript] Praticando com Promise, async e await
 
-[Regex] Praticando o básico no JavaScript
 
-[DNS] Encontrando informações sobre domínios de internet na raiz
+[Blockchain] O que é mineração POW
 
-[TypeScript] Construindo um client para IRC
 
-[JavaScript] Estudando Unicode
+[TypeScript] Retomando a blockchain da gohorse.dev
 
-[Regex + JavaScript] Escrevendo uma função tipo Slugify
+[NodeJS] Consumindo API fazendo scraping no Google
 
-[TypeScript] Construindo sistema de monetização via PIX
 
-[Git] Como commits nascem? Fazer commit sem usar `git commit`
 
-[GPg ou PGP] Praticando de todo jeito
+[Azure] Clonando uma VM
 
-[NodeJS] Enviando console.log() para banco de dados ElasticSearch
+[Linux] Permissões com `chmod` usando o modelo octal
 
-[ElasticSearch] Construindo uma VM para desenvolvimento
+[Git] Qual a diferença entre o branch e a tag
 
-[JavaScript] Gravando o console.log() em arquivo
+[TypeScript] Refactory da função da Lock
 
-[AsciiDoctor] Compilando TXT para PDF
+[AWS + Linux] Trocando o banner ao conectar via SSH
 
-[Regex no auth.log] Quem está atacando seu servidor?
+[TypeScript] Testes unitários com Jest
 
-[AsciiDoctor] Compilando TXT para PDF
+[Regex] Coletando emails e telefone da internet
 
+[Blockchain, TypeScript] Escrevendo uma função de Lock
 
 
-[Git] Usando múltiplos repositórios
+[Linux] Permissões com `chmod` usando o modelo octal
 
-[Git] Reset VS. Checkout
 
-[PHP, consumindo API] Revivendo o projeto App.Loto
+[TypeScript] Escrevendo uma função de Lock
 
-[PHP] Download, instalação e debug da versão 7
+[Git] Criando commits sem pai nem mãe
 
-[PHP, consumindo API] Revivendo o projeto App.Loto
+proximo topico: encontrando pai do commits. teste de DNA
 
-[TypeScript
 
-[Git] Editando commits
+[TypeScript] Escrevendo uma função de Lock
 
-[GitHub] Assinando commits
+[Git] Vendo como os commits são de fato
 
+[GitHub] Aprovando pull request em projeto da comunidade
 
-[Regex no JavaScript] A diferença entre RegExp().exec() e String().match()
+[Linux] Permissões com `chmod` usando o modelo octal
 
-[JavaScript + Regex] Gravando aulas
 
-[Netdata] Monitorando um servidor Linux usando a ferramenta Netdata
+useradd usuario
+userdel usuario
+/etc/passwd
 
+groupadd grupo
+groupdel grupo
+/etc/group
+groups
 
+usermod -Ggrupo usuario
 
+gpasswd -d sysdba teste
 
-[AWS] Criando uma VM e acessando pelo SSH com chave
 
 
-[NodeJS] Criando aplicações sem NPM
+[TypeScript] Escrevendo um wrapper para Git
 
-[Linux] Criando uma VM na AWS e mudando a porta SSH
+[Linux] Permissões com `chmod` usando o modelo octal
 
-[C#] Biblioteca de CLI com menus
 
-[Git] Listando o nome dos 'commiteiros'
 
+[Linux] Permissões com `chmod` usando o modelo octal
 
+[Busybox] Criando um servidor web
 
-[Git] Um pouco mais sobre `git commit`
+[Let's Encrypt] Obtendo um certificado SSL gratuito
 
-[Gatsby JS] Ajuste no sergiocabral.com
+####################################################################################
 
-                          eu: estudando criptografia / vocês: assistem esse documentário aí
+- PowerShell com oh-my-posh etc.
+- servidor web local com busybox e certificado Let's Encrypt
+- CI/CD com GitHub Actions
+- Wordpress pelo docker
+- Wordpress pelo nginx
+- lets encrypt com busybox, local, ngrok
 
 
-[SSH] Acessando servidores remotos
+CURSOS:
+Git pra trabalhar com times
+Expressão Regular
+- casos
+- sabores
+JavaScript Vanilla
+TypeScript
 
-[C#] Revivendo um projeto Cli
 
-[AWS] Criando uma conta com recursos gratuitos por 12 meses
 
-[AWS] Recriando conta gratuita
+O que é uma função de hash
+Como funciona a mineração do Bitcoin
+Operação bitwise em JavaScript
+Circuito eletrônico para soma binária
 
-[Git] Dicas de como nunca perder seus dados
-
-[mIRC] Conectando no chat da Twitch
-
-[npmjs.com] Publicando pacotes da blockchain gohorse.dev
-
-[Regex, Expressão Regular] Capturando grupos
-
-
-[Blockchain gohorse.dev] Finalizando aplicação base
-
-[TypeScript + Jest] Criptografando o JSON (sorteio de pizza)
-
-[sapiensia.com] Working on it: 
-
-[TypeScript + Jest] Testes unitário do criptografador de JSON
-
-
-
-[Blockchain gohorse.dev] Criptografando o JSON
-
-[Blockchain gohorse.dev] Segregando pacotes no npmjs.com
-
-[Blockchain gohorse.dev] Persistindo logger no ElasticSearch
-
-[Nginx, Wordpress] Subindo de volta meu site de fotos
-
-[npmjs.com] Publicando pacotes da blockchain gohorse.dev
-
-[TypeScript + Jest] Testes unitário do Logger para banco de dados
-
-[Blockchain gohorse.dev] Logger persistindo no ElasticSearch
-
-[Blockchain gohorse.dev] Comunicação entre duas instâncias em execução
-
-[Docker] Atualizando imagem nginx quebrada no alpine
-
-
-
-Sorteio de PIZZA + Quiz de JavaScripto
-
-[Blockchain gohorse.dev] Finalizar abstração do Logger
-
-[TypeScript + Jest] Parse do JSON que configura a blockchain gohorse.dev
-
-[ElasticSearch + Kibana] Configurando dashboards dos dados da Twitch
-
-
-
-[PowerShell] Bitcoin Wallet via linha de comando
-
-[TypeScript+Jest] Carregando configuração do JSON
-
-[Rocketseat] Preparando aula: Bitcoin Wallet via linha comando
-
-[Bitcoin] Criando um endereço por linha de comando
-
-[TypeScript] Parser para linha de comando
-
-[TypeScript] Executável base da blockchain gohorse.dev
-
-[TypeScript] Logger persistido em disco e banco de dados
-
-[TypeScript] Executável base da blockchain gohorse.dev
-
-
-[TypeScript + Jest] Monitorando arquivo em disco
-
-[C#] app para consulta de dados de domínios de internet
-
-
-[Documentário] Explicando: Código de programação
-
-[gohorse.dev] Construindo uma blockchain
-
-[TypeScript] Escrevendo um parse da linha de comando
-
-Escrevendo aplicação base da blockchain GoHorse
-
-TypeScript com Jest
-
-[C#] Atualizando para .NET 6
-
-[Blockchain] Parse da linha de comando
-
-npm install @sergiocabral/helper # Nova funcionalidade
-
-[Blockchain] A Cabr0n Coin agora é gohorse.dev
-
-[Blockchain] Criando um endereço de carteira Bitcoin
-
-Mineração... Vendendo equipamentos na OLX
-
-Twitch Scraping — Consertando porque parou de funcionar
-
-[Blockchain] A Cabr0n Coin vai mudar de nome
-
-###########################################################################################
+* Começar a plataforma devnator.com
